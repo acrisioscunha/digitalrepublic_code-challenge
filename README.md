@@ -32,12 +32,10 @@ npm install
 ```bash
 quasar dev
 ```
-
 ### Lint
 ```bash
 npm run lint
 ```
-
 ### Compilando aplicação para produção
 ```bash
 quasar build
